@@ -1,5 +1,5 @@
 ![ArgoCD – Basics to Production](https://img.shields.io/badge/ArgoCD-Basics_to_Production-blue?style=for-the-badge\&logo=argo\&logoColor=white)
-
+#This is my first change-by ritik
 # Argo CD: Basics to Production Course
 
 > Learn GitOps the way it works in real production Kubernetes environments.
